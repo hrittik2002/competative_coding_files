@@ -1,0 +1,1 @@
+{"name":"Local: code28","url":"c:\\Users\\Hrittik\\Desktop\\codeforces\\New folder\\code28.java","tests":[{"id":1632653835062,"input":"3\n100 5 5 10 4 8\n16 2 2 2 1 1\n55 1 2 3 4 5","output":"4\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Hrittik\\Desktop\\codeforces\\New folder\\code28.java","group":"local","local":true}

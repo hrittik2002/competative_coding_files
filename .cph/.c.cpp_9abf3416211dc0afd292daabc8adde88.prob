@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\Users\\Hrittik\\Desktop\\codeforces\\New folder\\c.cpp","tests":[{"id":1632076992225,"input":"2\n4\n1001\n0101\n3\n111\n000","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Hrittik\\Desktop\\codeforces\\New folder\\c.cpp","group":"local","local":true}
